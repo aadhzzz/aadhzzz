@@ -1,6 +1,6 @@
 # ⚡ AADHI NARAYANAN
 
-### Robotic Engineer | Founder & CEO, Anomaly
+### Robotic Engineer 
 
 ---
 
