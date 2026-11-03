@@ -1,15 +1,18 @@
 # Aadhi Narayanan (aadhzzz) 👋
 ### Robotic Engineer | Algorithmist
-
 **Hi, I'm Aadhi, I turn complex maths into physical form.**
+
 ---
 
 ## About Me
+---
 - 🔭 Working on procedural engineering engines and algorithmic soft robotic systems.
 - 🌐 Languages: Tamil, English, Telugu, Hindi.
 - 📫 Reach me via Email: `aadhzzz1@gmail.com` or GitHub: [@aadhzzz](https://github.com/aadhzzz)
+----
 
 ## Engineering Projects & Highlights
+---
 
 ### Autonomous Systems & Defense 👇
 - **PATROX**: Solar-powered autonomous defense rover integrated with LLM decision-making for landmine detection and surveillance.
@@ -20,7 +23,4 @@
 - **AEROGRIP**: Code-generated soft robotic tentacle gripper driven by PicoGK, ShapeKernel, and an ESP32 controller.
 - **WHALEFINN**: Bio-inspired aerodynamic surface using humpback whale tubercles and shark skin riblets for passive drag reduction.
 - **QUILLGUARD**: Porcupine quill-inspired porous lattice structure for high-velocity shock mitigation.
-
-## Connect With Me
-- [GitHub](https://github.com/aadhzzz)
-- Email: `aadhzzz1@gmail.com`
+---
