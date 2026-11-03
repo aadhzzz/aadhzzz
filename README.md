@@ -9,7 +9,7 @@
 - 📫 Reach me via Email: `aadhzzz1@gmail.com` or GitHub: [@aadhzzz](https://github.com/aadhzzz)
 ----
 
-## Engineering Projects & Highlights
+## Current & Ongoing Projects
 
 ### Autonomous Systems & Defense 👇
 - **PATROX**: Solar-powered autonomous defense rover integrated with LLM decision-making for landmine detection and surveillance.
