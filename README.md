@@ -2,6 +2,7 @@
 ### Robotic Engineer | Algorithmist
 
 **Hi, I'm Aadhi, I turn complex maths into physical form.**
+---
 
 ## About Me
 - 🔭 Working on procedural engineering engines and algorithmic soft robotic systems.
