@@ -6,7 +6,6 @@
 
 ## About Me
 - 🔭 Working on procedural engineering engines and algorithmic soft robotic systems.
-- 🌐 Languages: Tamil, English, Telugu, Hindi.
 - 📫 Reach me via Email: `aadhzzz1@gmail.com` or GitHub: [@aadhzzz](https://github.com/aadhzzz)
 ----
 
