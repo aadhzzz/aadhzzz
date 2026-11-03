@@ -5,14 +5,12 @@
 ---
 
 ## About Me
----
 - 🔭 Working on procedural engineering engines and algorithmic soft robotic systems.
 - 🌐 Languages: Tamil, English, Telugu, Hindi.
 - 📫 Reach me via Email: `aadhzzz1@gmail.com` or GitHub: [@aadhzzz](https://github.com/aadhzzz)
 ----
 
 ## Engineering Projects & Highlights
----
 
 ### Autonomous Systems & Defense 👇
 - **PATROX**: Solar-powered autonomous defense rover integrated with LLM decision-making for landmine detection and surveillance.
