@@ -17,7 +17,7 @@
 
 ### Computational Engineering 👇
 - **ANOMOLY**: Computational design engine using signed distance functions (SDF) and voxels to procedurally generate bionic hardware.
-- **AEROGRIP**: Code-generated soft robotic tentacle gripper driven by PicoGK, ShapeKernel, and an ESP32 controller.
+- **AEROGRIP**: Tendon-driven soft robotic tentacle gripper grown via maths and code.
 - **WHALEFINN**: Bio-inspired aerodynamic surface using humpback whale tubercles and shark skin riblets for passive drag reduction.
 - **QUILLGUARD**: Porcupine quill-inspired porous lattice structure for high-velocity shock mitigation.
 ---
