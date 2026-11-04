@@ -1,6 +1,6 @@
 # Aadhi Narayanan (aadhzzz) 👋
 ### Robotic Engineer | Algorithmist
-**Hi, I'm Aadhi, I turn complex maths into physical form.**
+**I turn complex maths into physical form.**
 
 ---
 
